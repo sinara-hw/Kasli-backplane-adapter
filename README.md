@@ -1,6 +1,6 @@
 # Kasli-backplane-adapter
 
-Adapter from Kasli v1 backplane connector to 4x IDC.
+Adapter to break out Kasli v1 backplane connector to 4x EEMs.
 
 ## Design Files
 
