@@ -1,6 +1,6 @@
 # Kasli-backplane-adapter
 
-Adapter to break out Kasli v1 backplane connector to 4x EEMs.
+Adapter to break out Kasli v1.1 backplane connector to 4x EEMs and power.
 
 ## Design Files
 
